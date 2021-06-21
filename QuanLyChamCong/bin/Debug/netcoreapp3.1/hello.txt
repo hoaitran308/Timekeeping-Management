@@ -1,0 +1,25 @@
+NV02||0|0382124399|285831787|Quan 10, TP.HCM||8040000
+NV03|Trần Văn Hoài|0|0382124399|285831787|Quan 10, TP.HCM|X01|7000000
+NV04||0|0382124399|285831787|Quan 10, TP.HCM||8040000
+NV05|Trần Văn Hoài|0|0382124399|285831787|Quan 10, TP.HCM|X01|7000000
+NV06||0|0382124399|285831787|Quan 10, TP.HCM||8040000
+NV07|Trần Văn Hoài|0|0382124399|285831787|Quan 10, TP.HCM|X01|7000000
+NV08||0|0382124399|285831787|Quan 10, TP.HCM||8040000
+NV09|Trần Văn Hoài|0|0382124399|285831787|Quan 10, TP.HCM|X01|7000000
+NV10||0|0382124399|285831787|Quan 10, TP.HCM||8040000
+NV12|HIHI|1|0321213132|123213132|Loc Hoa||231333
+X01|Xưởng Độ Mixi
+C01|06:00:01|14:00:00
+C02|14:00:01|22:00:00
+C03|22:00:01|06:00:00
+NV12|6/16/2021 11:22:12 PM|6/17/2021 6:00:00 AM
+Mã nhân viên: NV02, Ngày tính lương: 6/18/2021, Số giờ đã làm: 0 giờ, Tiền lương: 0 VNĐ
+Mã nhân viên: NV03, Ngày tính lương: 6/18/2021, Số giờ đã làm: 0 giờ, Tiền lương: 0 VNĐ
+Mã nhân viên: NV04, Ngày tính lương: 6/18/2021, Số giờ đã làm: 0 giờ, Tiền lương: 0 VNĐ
+Mã nhân viên: NV05, Ngày tính lương: 6/18/2021, Số giờ đã làm: 0 giờ, Tiền lương: 0 VNĐ
+Mã nhân viên: NV06, Ngày tính lương: 6/18/2021, Số giờ đã làm: 0 giờ, Tiền lương: 0 VNĐ
+Mã nhân viên: NV07, Ngày tính lương: 6/18/2021, Số giờ đã làm: 0 giờ, Tiền lương: 0 VNĐ
+Mã nhân viên: NV08, Ngày tính lương: 6/18/2021, Số giờ đã làm: 0 giờ, Tiền lương: 0 VNĐ
+Mã nhân viên: NV09, Ngày tính lương: 6/18/2021, Số giờ đã làm: 0 giờ, Tiền lương: 0 VNĐ
+Mã nhân viên: NV10, Ngày tính lương: 6/18/2021, Số giờ đã làm: 0 giờ, Tiền lương: 0 VNĐ
+Mã nhân viên: NV12, Ngày tính lương: 6/18/2021, Số giờ đã làm: 6.63 giờ, Tiền lương: 1533737.79 VNĐ

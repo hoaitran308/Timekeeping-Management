@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\QuanLyChamCong\QuanLyChamCong\bin\Debug\net5.0\QuanLyChamCong.exe
+C:\Users\Admin\source\repos\QuanLyChamCong\QuanLyChamCong\bin\Debug\net5.0\QuanLyChamCong.deps.json
+C:\Users\Admin\source\repos\QuanLyChamCong\QuanLyChamCong\bin\Debug\net5.0\QuanLyChamCong.runtimeconfig.json
+C:\Users\Admin\source\repos\QuanLyChamCong\QuanLyChamCong\bin\Debug\net5.0\QuanLyChamCong.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\QuanLyChamCong\QuanLyChamCong\bin\Debug\net5.0\QuanLyChamCong.dll
+C:\Users\Admin\source\repos\QuanLyChamCong\QuanLyChamCong\bin\Debug\net5.0\ref\QuanLyChamCong.dll
+C:\Users\Admin\source\repos\QuanLyChamCong\QuanLyChamCong\bin\Debug\net5.0\QuanLyChamCong.pdb
+C:\Users\Admin\source\repos\QuanLyChamCong\QuanLyChamCong\obj\Debug\net5.0\QuanLyChamCong.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\QuanLyChamCong\QuanLyChamCong\obj\Debug\net5.0\QuanLyChamCong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\QuanLyChamCong\QuanLyChamCong\obj\Debug\net5.0\QuanLyChamCong.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\QuanLyChamCong\QuanLyChamCong\obj\Debug\net5.0\QuanLyChamCong.AssemblyInfo.cs
+C:\Users\Admin\source\repos\QuanLyChamCong\QuanLyChamCong\obj\Debug\net5.0\QuanLyChamCong.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QuanLyChamCong\QuanLyChamCong\obj\Debug\net5.0\QuanLyChamCong.dll
+C:\Users\Admin\source\repos\QuanLyChamCong\QuanLyChamCong\obj\Debug\net5.0\ref\QuanLyChamCong.dll
+C:\Users\Admin\source\repos\QuanLyChamCong\QuanLyChamCong\obj\Debug\net5.0\QuanLyChamCong.pdb
+C:\Users\Admin\source\repos\QuanLyChamCong\QuanLyChamCong\obj\Debug\net5.0\QuanLyChamCong.genruntimeconfig.cache

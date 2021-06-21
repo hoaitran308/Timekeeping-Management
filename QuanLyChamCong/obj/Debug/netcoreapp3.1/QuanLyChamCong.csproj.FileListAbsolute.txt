@@ -1,0 +1,26 @@
+Z:\Visual Studio\Projects\QuanLyChamCong\QuanLyChamCong\bin\Debug\netcoreapp3.1\QuanLyChamCong.exe
+Z:\Visual Studio\Projects\QuanLyChamCong\QuanLyChamCong\bin\Debug\netcoreapp3.1\QuanLyChamCong.deps.json
+Z:\Visual Studio\Projects\QuanLyChamCong\QuanLyChamCong\bin\Debug\netcoreapp3.1\QuanLyChamCong.runtimeconfig.json
+Z:\Visual Studio\Projects\QuanLyChamCong\QuanLyChamCong\bin\Debug\netcoreapp3.1\QuanLyChamCong.runtimeconfig.dev.json
+Z:\Visual Studio\Projects\QuanLyChamCong\QuanLyChamCong\bin\Debug\netcoreapp3.1\QuanLyChamCong.dll
+Z:\Visual Studio\Projects\QuanLyChamCong\QuanLyChamCong\bin\Debug\netcoreapp3.1\QuanLyChamCong.pdb
+Z:\Visual Studio\Projects\QuanLyChamCong\QuanLyChamCong\obj\Debug\netcoreapp3.1\QuanLyChamCong.csprojAssemblyReference.cache
+Z:\Visual Studio\Projects\QuanLyChamCong\QuanLyChamCong\obj\Debug\netcoreapp3.1\QuanLyChamCong.AssemblyInfoInputs.cache
+Z:\Visual Studio\Projects\QuanLyChamCong\QuanLyChamCong\obj\Debug\netcoreapp3.1\QuanLyChamCong.AssemblyInfo.cs
+Z:\Visual Studio\Projects\QuanLyChamCong\QuanLyChamCong\obj\Debug\netcoreapp3.1\QuanLyChamCong.csproj.CoreCompileInputs.cache
+Z:\Visual Studio\Projects\QuanLyChamCong\QuanLyChamCong\obj\Debug\netcoreapp3.1\QuanLyChamCong.dll
+Z:\Visual Studio\Projects\QuanLyChamCong\QuanLyChamCong\obj\Debug\netcoreapp3.1\QuanLyChamCong.pdb
+Z:\Visual Studio\Projects\QuanLyChamCong\QuanLyChamCong\obj\Debug\netcoreapp3.1\QuanLyChamCong.genruntimeconfig.cache
+C:\Users\Admin\source\repos\QuanLyChamCong\QuanLyChamCong\bin\Debug\netcoreapp3.1\QuanLyChamCong.exe
+C:\Users\Admin\source\repos\QuanLyChamCong\QuanLyChamCong\bin\Debug\netcoreapp3.1\QuanLyChamCong.deps.json
+C:\Users\Admin\source\repos\QuanLyChamCong\QuanLyChamCong\bin\Debug\netcoreapp3.1\QuanLyChamCong.runtimeconfig.json
+C:\Users\Admin\source\repos\QuanLyChamCong\QuanLyChamCong\bin\Debug\netcoreapp3.1\QuanLyChamCong.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\QuanLyChamCong\QuanLyChamCong\bin\Debug\netcoreapp3.1\QuanLyChamCong.dll
+C:\Users\Admin\source\repos\QuanLyChamCong\QuanLyChamCong\bin\Debug\netcoreapp3.1\QuanLyChamCong.pdb
+C:\Users\Admin\source\repos\QuanLyChamCong\QuanLyChamCong\obj\Debug\netcoreapp3.1\QuanLyChamCong.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\QuanLyChamCong\QuanLyChamCong\obj\Debug\netcoreapp3.1\QuanLyChamCong.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\QuanLyChamCong\QuanLyChamCong\obj\Debug\netcoreapp3.1\QuanLyChamCong.AssemblyInfo.cs
+C:\Users\Admin\source\repos\QuanLyChamCong\QuanLyChamCong\obj\Debug\netcoreapp3.1\QuanLyChamCong.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QuanLyChamCong\QuanLyChamCong\obj\Debug\netcoreapp3.1\QuanLyChamCong.dll
+C:\Users\Admin\source\repos\QuanLyChamCong\QuanLyChamCong\obj\Debug\netcoreapp3.1\QuanLyChamCong.pdb
+C:\Users\Admin\source\repos\QuanLyChamCong\QuanLyChamCong\obj\Debug\netcoreapp3.1\QuanLyChamCong.genruntimeconfig.cache

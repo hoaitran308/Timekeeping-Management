@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="QuanLyChamCong.Ca">
+    <Position X="8" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABBAAAAUAAAIAAAAEAACAAAAAgAAIAAAACA=</HashCode>
+      <FileName>Ca.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyChamCong.Cong">
+    <Position X="10.25" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAABAAAAAUAAAIAAAAEAACAAAAAgAAIAAABCA=</HashCode>
+      <FileName>Cong.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyChamCong.Luong">
+    <Position X="10.25" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAIAAEACAAAAAAAAAAAAABAABAAQAARAA=</HashCode>
+      <FileName>Luong.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyChamCong.NhanVien">
+    <Position X="5.5" Y="1" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAECAAAQgBABEIUQAQIEAAAEAAAgAAAAIAAAAAABAg=</HashCode>
+      <FileName>NhanVien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyChamCong.Program">
+    <Position X="0.5" Y="1" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAgAAAIAAAAAAAABAEAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyChamCong.QuanLy">
+    <Position X="0.5" Y="3" Width="2.25" />
+    <AssociationLine Name="Cas" Type="QuanLyChamCong.Ca" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="1.938" Y="6.478" />
+        <Point X="1.938" Y="7.137" />
+        <Point X="8" Y="7.137" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="Congs" Type="QuanLyChamCong.Cong" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="1.312" Y="6.478" />
+        <Point X="1.312" Y="8.188" />
+        <Point X="10.25" Y="8.188" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="Luongs" Type="QuanLyChamCong.Luong" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="2.75" Y="3.812" />
+        <Point X="4.094" Y="3.812" />
+        <Point X="4.094" Y="0.354" />
+        <Point X="11.25" Y="0.354" />
+        <Point X="11.25" Y="1" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="Xuongs" Type="QuanLyChamCong.Xuong" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="2.75" Y="4.188" />
+        <Point X="4.625" Y="4.188" />
+        <Point X="4.625" Y="0.552" />
+        <Point X="9.062" Y="0.552" />
+        <Point X="9.062" Y="1" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAEAAEAAAQAAABwQQAAAAQABQCAgIAAAAAQBAAAAAQ=</HashCode>
+      <FileName>QuanLy.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="Cas" />
+      <Field Name="Congs" />
+      <Field Name="Luongs" />
+      <Field Name="NhanViens" />
+      <Field Name="Xuongs" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="QuanLyChamCong.Xuong">
+    <Position X="8" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgBAAAKEAAAIgAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Xuong.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
